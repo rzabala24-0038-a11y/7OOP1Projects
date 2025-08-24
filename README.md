@@ -19,8 +19,8 @@
 ---
 
 ## 💻 Languages I Know
--HTML
--CSS
--C
--JAVA
--BASH SCRIPTING
+- HTML
+- CSS
+- C
+- JAVA
+- BASH SCRIPTING
