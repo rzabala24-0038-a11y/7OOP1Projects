@@ -21,6 +21,7 @@ title: "7OOP1 Projects"
   <span class="badge">HTML</span>
   <span class="badge">CSS</span>
   <span class="badge">C</span>
+  <span class="badge">Java</span>
   <span class="badge">Bash Scripting</span>
 </div>
 
