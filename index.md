@@ -11,7 +11,9 @@ title: "7OOP1 Projects"
 
 ## 👨‍💻 About Me
 - **Name:** Brian Zabala
+- 
 - Loves **Sleeping**, **Reading**, and **Sleeping**.
+- 
 - Goal: To challenge myself in the world of **Cyber security** .
 
 ---
