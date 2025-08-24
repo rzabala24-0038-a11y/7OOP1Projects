@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "7OOP1 Projects"
+title: "7OOP1"
 ---
 
 # <span class="hero-title">7OOP1 — Projects</span>
