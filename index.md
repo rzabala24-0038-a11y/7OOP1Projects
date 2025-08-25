@@ -3,7 +3,7 @@ layout: default
 title: "7OOP1"
 ---
 
-# <span class="hero-title">7OOP1 — Projects</span>
+# <span class="hero-title">Object Oriented Programming</span>
 
 <span id="terminal"></span>
 
