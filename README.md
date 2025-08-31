@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me  
-<img src="{{ '/assets/img/profile.jpeg' | relative_url }}" 
+<img src="{{ '/assets/img/profile.jpeg' }}" 
      alt="Brian Zabala" 
      width="160" 
      align="right" 
