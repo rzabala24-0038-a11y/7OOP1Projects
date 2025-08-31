@@ -37,9 +37,9 @@ title: "7OOP1"
 ---
 
 ## 📂 Projects for 7OOP1  
-- [🔗 Project 1](#) – Description here  
-- [🔗 Project 2](#) – Description here  
-- [🔗 Project 3](#) – Description here  
+- [🔗 Project 1](#) – 1
+- [🔗 Project 2](#) – 2
+- [🔗 Project 3](#) – 3 
 
 ---
 
