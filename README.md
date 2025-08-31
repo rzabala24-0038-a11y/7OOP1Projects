@@ -5,12 +5,12 @@
 ---
 
 ## 👨‍💻 About Me  
-<img src="{{ '/assets/img/profile.jpeg' }}" 
+<img src="{{ '/assets/img/profile.jpeg' | relative_url }}" 
      alt="Brian Zabala" 
      width="160" 
      align="right" 
      style="border-radius: 12px; margin-left: 15px;">
-
+     
 - **Name:** Brian Zabala  
 - **Loves:** Sleeping, Reading, and Sleeping again  
 - **Goal:** To challenge myself in the world of **Cyber Security**  
