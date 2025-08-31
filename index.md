@@ -19,7 +19,6 @@ title: "7OOP1"
 
 ## 🎯 Areas of Interest & Languages  
 
-### 🔐 Areas of Interest  
 - Reading  
 - Learning  
 - Puzzles  
