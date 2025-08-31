@@ -43,7 +43,7 @@
 
 ---
 
-## 📬 F. Contacts  
+## 📬 Contacts  
 - 📘 [Facebook](https://www.facebook.com/share/18T5bqWTgC/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/brian-zabala-4a80a7321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 📷 [Instagram](https://www.instagram.com/kur0_z?igsh=MTZkcW43ZG1kc2pvYg==)  
