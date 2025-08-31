@@ -5,7 +5,11 @@
 ---
 
 ## 👨‍💻 About Me  
-<img src="{{ '/assets/img/profile.jpeg' | relative_url }}" alt="Brian Zabala" width="160" align="right" style="border-radius: 12px; margin-left: 15px;">
+<img src="{{ '/assets/img/profile.jpeg' | relative_url }}" 
+     alt="Brian Zabala" 
+     width="160" 
+     align="right" 
+     style="border-radius: 12px; margin-left: 15px;">
 
 - **Name:** Brian Zabala  
 - **Loves:** Sleeping, Reading, and Sleeping again  
