@@ -4,12 +4,12 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center;">
   <h2>👨‍💻 About Me</h2>
   <img src="assets/img/IMG_20240608_230814_516.jpg" 
        alt="Brian Zabala" 
        width="160" 
-       style="border-radius: 12px; margin-left: 15px;">
+       style="border-radius: 12px; margin-left: auto;">
 </div>
 
 - **Name:** Brian Zabala  
