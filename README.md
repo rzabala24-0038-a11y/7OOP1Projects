@@ -8,7 +8,7 @@
 
 | | |
 |:--|--:|
-| **Name:** Brian Zabala<br>**Loves:** Sleeping, Reading, and Sleeping again<br>**Goal:** To challenge myself in the world of **Cyber Security** | <img src="assets/img/IMG_20240608_230814_516.jpg" alt="Brian Zabala" width="160"> |
+| **Name:** Brian Zabala<br>**Loves:** Sleeping, Reading, and Sleeping again<br>**Goal:** To challenge myself in the world of **Cyber Security** | <img src="assets/img/profile.jpeg" alt="Brian Zabala" width="160"> |
 ---
 
 ## 🎯 Areas of Interest & Languages  
