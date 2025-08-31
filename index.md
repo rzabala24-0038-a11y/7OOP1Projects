@@ -22,7 +22,8 @@ title: "7OOP1"
 - Reading  
 - Learning  
 - Puzzles  
-- Science  
+- Science
+- Philosophy 
 
 ### 💻 Languages I Know  
 <div class="badges">
