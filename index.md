@@ -42,7 +42,7 @@ title: "7OOP1"
 
 ---
 
-## ✨ Facts About Me 
+## 😎 Facts About Me 
 - My favourite author is Fyodor Dostoevsky  
 - My Favourite color is Black  
 - My Favourite artist is keshi  
