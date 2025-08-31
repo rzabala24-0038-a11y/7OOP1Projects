@@ -9,7 +9,7 @@
      alt="Brian Zabala" 
      width="160" 
      align="right" 
-     style="border-radius: 12px; margin-left: 15px;">
+     style="border-radius: 12px; margin-left: 15px; vertical-align: top;">
      
 - **Name:** Brian Zabala  
 - **Loves:** Sleeping, Reading, and Sleeping again  
