@@ -4,13 +4,11 @@
 
 ---
 
-<div style="display: flex; align-items: center;">
-  <h2>👨‍💻 About Me</h2>
-  <img src="assets/img/IMG_20240608_230814_516.jpg" 
-       alt="Brian Zabala" 
-       width="160" 
-       style="border-radius: 12px; margin-left: auto;">
-</div>
+<h2 style="display: inline-block;">👨‍💻 About Me</h2>
+<img src="assets/img/IMG_20240608_230814_516.jpg" 
+     alt="Brian Zabala" 
+     width="160" 
+     style="float: right; border-radius: 12px; margin-left: 15px;">
 
 - **Name:** Brian Zabala  
 - **Loves:** Sleeping, Reading, and Sleeping again  
