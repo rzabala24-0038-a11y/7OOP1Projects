@@ -17,7 +17,8 @@
 - Reading
 - Learning
 - Puzzles
-- Science 
+- Science
+- Philosophy 
 
 ### 💻 Programming Languages  
 - HTML  
