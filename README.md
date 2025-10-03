@@ -30,14 +30,14 @@
 ---
 
 ## 📂 Project Links  
-- [🔗 Project 1](projects/Zabala, Rhaldynyl Brian F. Python LabActivity1.pdf) – Lab Task 1 
-- [🔗 Project 2](#) – Lab Task 2 
-- [🔗 Project 3](#) – Lab Task 3
-- [🔗 Project 4](#) – Lab Task 4
-- [🔗 Project 5](#) – Lab Task 5
-- [🔗 Project 6](#) – Lab Task 6
-- [🔗 Project 7](#) – Collections
-- [🔗 Project 8](#) – Pair Task
+- [🔗 Project 1](projects/LabActivity1_Zabala.pdf) – Lab Task 1 
+- [🔗 Project 2](projects/LabActivity2_Zabala.pdf) – Lab Task 2 
+- [🔗 Project 3](projects/LabActivity3_Zabala.pdf) – Lab Task 3
+- [🔗 Project 4](projects/LabActivity4_Zabala.pdf) – Lab Task 4
+- [🔗 Project 5](projects/LabActivity5_Zabala.pdf) – Lab Task 5
+- [🔗 Project 6](projects/LabActivity6_Zabala.pdf) – Lab Task 6
+- [🔗 Project 7](projects/Collections.pdf) – Collections
+- [🔗 Project 8](projects/PairTask.pdf) – Pair Task
 
 ---
 
