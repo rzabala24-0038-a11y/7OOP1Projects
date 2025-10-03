@@ -37,14 +37,14 @@ title: "7OOP1"
 ---
 
 ## 📂 Project Links  
-- [🔗 Project 1](projects/LabActivity1_Zabala.pdf) – Lab Task 1 
-- [🔗 Project 2](projects/LabActivity2_Zabala.pdf) – Lab Task 2 
-- [🔗 Project 3](projects/LabActivity3_Zabala.pdf) – Lab Task 3
-- [🔗 Project 4](projects/LabActivity4_Zabala.pdf) – Lab Task 4
-- [🔗 Project 5](projects/LabActivity5_Zabala.pdf) – Lab Task 5
-- [🔗 Project 6](projects/LabActivity6_Zabala.pdf) – Lab Task 6
-- [🔗 Project 7](projects/Collections.pdf) – Collections
-- [🔗 Project 8](projects/PairTask.pdf) – Pair Task
+- [🔗 Project 1](projects/LabActivity1_Zabala.pdf) – Midterm Lab Task 1 Getting started with Python
+- [🔗 Project 2](projects/LabActivity2_Zabala.pdf) – Midterm Lab Task 2 Loop Construct
+- [🔗 Project 3](projects/LabActivity3_Zabala.pdf) – Midterm Lab Task 3. Using List Collections 
+- [🔗 Project 4](projects/LabActivity4_Zabala.pdf) – Midterm Lab Task 4. Using Dictionary Collections
+- [🔗 Project 5](projects/LabActivity5_Zabala.pdf) – Midterm Lab Task 5. Creating and Instantiating Classes
+- [🔗 Project 6](projects/LabActivity6_Zabala.pdf) – Midterm Lab Task 6. Overloaded Consturctors
+- [🔗 Project 7](projects/Collections.pdf) – Practice Task using Collections
+- [🔗 Project 8](projects/PairTask.pdf) – Midterm Paired Task 1
 
 ---
 
