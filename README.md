@@ -30,7 +30,7 @@
 ---
 
 ## 📂 Project Links  
-- [🔗 Project 1](#) – Lab Task 1 
+- [🔗 Project 1](projects/Zabala, Rhaldynyl Brian F. Python LabActivity1.pdf) – Lab Task 1 
 - [🔗 Project 2](#) – Lab Task 2 
 - [🔗 Project 3](#) – Lab Task 3
 - [🔗 Project 4](#) – Lab Task 4
