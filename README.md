@@ -30,6 +30,7 @@
 ---
 
 ## 📂 Project Links  
+# Midterms
 - [🔗 Project 1](projects/LabActivity1_Zabala.pdf) – Midterm Lab Task 1 Getting started with Python
 - [🔗 Project 2](projects/LabActivity2_Zabala.pdf) – Midterm Lab Task 2 Loop Construct
 - [🔗 Project 3](projects/LabActivity3-3_Zabala.pdf) – Midterm Lab Task 3. Using List Collections 
@@ -38,6 +39,10 @@
 - [🔗 Project 6](projects/LabActivity6-6_Zabala.pdf) – Midterm Lab Task 6. Overloaded Consturctors
 - [🔗 Project 7](projects/Collections.pdf) – Practice Task using Collections
 - [🔗 Project 8](projects/Pairtask.pdf) – Midterm Paired Task 1
+
+# Finals
+
+
 
 ---
 
