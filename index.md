@@ -37,6 +37,7 @@ title: "7OOP1"
 ---
 
 ## 📂 Project Links  
+# Midterms
 - [🔗 Project 1](projects/LabActivity1_Zabala.pdf) – Midterm Lab Task 1 Getting started with Python
 - [🔗 Project 2](projects/LabActivity2_Zabala.pdf) – Midterm Lab Task 2 Loop Construct
 - [🔗 Project 3](projects/LabActivity3-3_Zabala.pdf) – Midterm Lab Task 3. Using List Collections 
@@ -46,6 +47,15 @@ title: "7OOP1"
 - [🔗 Project 7](projects/Collections.pdf) – Practice Task using Collections
 - [🔗 Project 8](projects/Pairtask.pdf) – Midterm Paired Task 1
 
+# Finals
+- [🔗 Project 1](projects/LabActivityFinals1.pdf) – Finals Lab Task 1. Encapsulation
+- [🔗 Project 2](projects/LabActivityFinals2.pdf) – Finals Task 2. Inheritance
+- [🔗 Project 3](projects/LabActivityFinals3.pdf) – Finals Task 3. Polymorphism 
+- [🔗 Project 4](projects/LabActivityFinals4.pdf) – Finals task 4. Designing Tkinter GUI using OOP
+- [🔗 Project 5](projects/LabActivityFinals5.pdf) – Finals Task 5. Grading Program using Tkinter
+- [🔗 Project 6](projects/LabActivityFinals6.pdf) – Finals Lab Task 6. Mysql and Pythod CRUD using CLI
+- [🔗 Project 7](projects/LabActivityFinals7.pdf) – Finals Task 7. Tkinter CRUD GUI
+- 
 ---
 
 ## 😎 Facts About Me 
